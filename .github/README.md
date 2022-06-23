@@ -1,4 +1,5 @@
 <div align="center">
+<img src="../src/assets/logo.svg" alt="logotipo do evento Ignite Lab">
 <h1 align="center">Event Platform | Ignite Lab (Rocketseat)</h1>
 </div>
 
@@ -15,7 +16,7 @@
 </p>
 
 <p align="center">
-    <img src="../images/preview.png" alt="preview">
+    <img src="../src/assets/preview.png" alt="preview">
 </p>
 
 <p align="center">
@@ -28,13 +29,13 @@
   <img alt="" src=".github/preview-desktop.png" width="100%" />
 </p>
 
-## 📄 Descrição:
+# 📄 Descrição:
 
 ### O que será desenvolvido?
 
 - Plataforma de eventos baseada no próprio evento Ignite Lab.
 
-## 🚀 Tecnologias:
+# 🚀 Tecnologias:
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -58,17 +59,17 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ### React Router DOM
 
-## 🚧 Projeto:
+# 🚧 Projeto:
 
-### Em construção!
+### [Em construção!](https://event-platform-five.vercel.app/)
 
-## 🎨 Inspiração:
+# 🎨 Inspiração:
 
 ### Projeto desenvolvido durante o evento Ignite Lab da Rocketseat.
 
 [Figma](<https://www.figma.com/file/JX79L923aZkozzQTFixNsw/Plataforma-de-evento---Ignite-Lab-(Community)?node-id=8%3A399>)
 
-## 📝 Licença
+# 📝 Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
 

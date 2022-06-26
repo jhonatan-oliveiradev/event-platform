@@ -63,13 +63,13 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 # 🚧 Projeto:
 
-### [Em construção!](https://event-platform-five.vercel.app/)
+### [Confira aqui!](https://event-platform-five.vercel.app/)
 
 # 🎨 Inspiração:
 
 ### Projeto desenvolvido durante o evento Ignite Lab da Rocketseat.
 
-[Figma](<https://www.figma.com/file/JX79L923aZkozzQTFixNsw/Plataforma-de-evento---Ignite-Lab-(Community)?node-id=8%3A399>)
+[Figma](<https://www.figma.com/file/JX79L923aZkozzQTFixNsw/Plataforma-de-evento---Ignite-Lab-(Community)?node-id=8%3A399/>)
 
 # 📝 Licença
 

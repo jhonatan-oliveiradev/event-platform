@@ -59,6 +59,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ### React Router DOM
 
+### GraphQL Code Generator
+
 # 🚧 Projeto:
 
 ### [Em construção!](https://event-platform-five.vercel.app/)
